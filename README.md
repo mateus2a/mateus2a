@@ -16,4 +16,6 @@ More about me:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus2a&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 <br/>
-
+<!--
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/mateus2a)](https://github.com/mateus2a)
+-->
