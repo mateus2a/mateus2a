@@ -11,11 +11,9 @@ More about me:
 - ✉️ Send me an [email](mailto:mtauws@gmail.com) or a DM on [Instagram](https://www.instagram.com/mateusalendev/) if you want to contact me 
 - 🍁 Fun fact: I'll be a future canadian
 
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus2a&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
-<br/>
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus2a&layout=compact&bg_color=ffffff&text_color=333333">
+
 <!--
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/mateus2a)](https://github.com/mateus2a)
 -->
