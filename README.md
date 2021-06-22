@@ -5,5 +5,9 @@
 - ✉️ Send me an [email](mailto:mtauws@gmail.com) or a DM on [Instagram](https://www.instagram.com/mateusalen_/) if you want to contact me 
 - 🍁 Fun fact: I'll be a future canadian
 
-<h4>Reach me out</h4>
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus2a&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+
 
