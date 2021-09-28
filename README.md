@@ -9,7 +9,7 @@
 More about me:
 - 👨‍💻 I’m currently studying at [Trybe](https://github.com/tryber)
 - ✉️ Send me an [email](mailto:mtauws@gmail.com) or a DM on [Instagram](https://www.instagram.com/mateusalendev/) if you want to contact me 
-- 🍁 Fun fact: I'll be a future canadian
+- 🍁 Fun fact: Future canadian
 
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus2a&layout=compact&bg_color=ffffff&text_color=333333">
