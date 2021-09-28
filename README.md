@@ -17,3 +17,4 @@ More about me:
 <!--
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/mateus2a)](https://github.com/mateus2a)
 -->
+![Snake animation](https://github.com/mateus2a/mateus2a/blob/output/github-contribution-grid-snake.svg)
