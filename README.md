@@ -6,12 +6,14 @@ More about me:
 - ✉️ Send me an [email](mailto:mtauws@gmail.com) or a DM on [Instagram](https://www.instagram.com/mateusalendev/) if you want to contact me 
 - 🍁 Fun fact: Future canadian
 
-<div align="center">
+<div align="center" vertical-align="middle">
   <a href="https://github.com/mateus2a">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus2a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus2a&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+
+<br />
+ 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -24,7 +26,7 @@ More about me:
   ##
   
 <div>
-    <a href="https://www.youtube.com/channel/UC84lRhLM7l0oXCfsTyF8wHQ" target="_blank">
+  <a href="https://www.youtube.com/channel/UC84lRhLM7l0oXCfsTyF8wHQ" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
   <a href="https://instagram.com/mateusalendev" target="_blank">
