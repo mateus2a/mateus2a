@@ -10,8 +10,8 @@ More about me:
 
 <div align="center">
   <a href="https://github.com/mateus2a">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus2a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus2a&layout=compact&langs_count=7&theme=dracula"/>
+  <img style="display: inline" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus2a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img style="display: inline" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus2a&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
