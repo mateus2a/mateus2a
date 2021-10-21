@@ -43,4 +43,4 @@ More about me:
   </a>
 </div>
 
-![Snake animation](https://github.com/mateus2a/mateus2a/blob/main/github-contribution-grid-snake.svg)
+
